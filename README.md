@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Uses Google OAuth2 authentication to validate logged in user
+
 ## Available Scripts
 
 In the project directory, you can run:
